@@ -1429,3 +1429,6 @@
 [submodule "Module_4/Project/dsc-4-final-project-online-ds-pt-112618"]
 	path = Module_4/Project/dsc-4-final-project-online-ds-pt-112618
 	url = https://github.com/Matthew-Daly/dsc-4-final-project-online-ds-pt-112618
+[submodule "Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-pt-112618"]
+	path = Module_1/02-importing-and-statistical-analysis-of-data/dsc-1-02-07-using-nested-loops-online-ds-pt-112618
+	url = https://github.com/Matthew-Daly/dsc-1-02-07-using-nested-loops-online-ds-pt-112618
